@@ -3,7 +3,7 @@ This software allows one to compute entanglement, coherence and predictability o
 
 # Dependancies
 
-qiskit 0.10.0
+qiskit
 
 numpy
 
