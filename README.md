@@ -14,3 +14,5 @@ numpy
 matplotlib
 
 random
+
+Matlab QETLAB package
