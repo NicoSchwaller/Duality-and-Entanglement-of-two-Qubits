@@ -16,3 +16,7 @@ matplotlib
 random
 
 Matlab QETLAB package (http://www.qetlab.com)
+
+# Files
+
+Quantum_entanglement_duality.ipynb saves the measured density matrices in .txt files, which can be read by the Matlab script Read_results.m
