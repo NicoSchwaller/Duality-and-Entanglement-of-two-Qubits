@@ -15,4 +15,4 @@ matplotlib
 
 random
 
-Matlab QETLAB package
+Matlab QETLAB package (http://www.qetlab.com)
